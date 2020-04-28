@@ -1,1 +1,1 @@
-Dataset acquired from: http://mlg.ucd.ie/datasets/bbc.html
+Dataset: http://mlg.ucd.ie/datasets/bbc.html - Raw Text Files
