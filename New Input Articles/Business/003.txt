@@ -1,0 +1,19 @@
+Google Cloud revenue increased 52% to $2.78 billion in the first quarter, helping Google parent Alphabet beat Wall Street’s revenue expectations even as the company’s broader advertising business struggled amid the economic downturn.
+
+The cloud division includes Google Cloud Platform as well as its G Suite productivity and collaboration tools and other cloud services for businesses, some of which have seen a surge in usage as people around the world work remotely during the COVID-19 pandemic.
+
+The company plans to slow down the pace of hiring for the remainder of 2020, maintaining momentum in “a small number of strategic areas,” said Sundar Pichai, the Alphabet and Google CEO, on a conference call with analysts and investors. The company is also “recalibrating the focus and pace” of investments in areas including data centers and non-essential marketing and travel, he said.
+
+In the first quarter, the company’s total headcount rose by more than 4,100, to 123,048 employees. Google Cloud posted the largest employee increase among the company’s product groups, in both technical and sales roles, said Ruth Porat, the company’s chief financial officer, on the conference call.
+
+In a memo to employees on Monday, reported by Business Insider and CNBC, Pichai said that “everyone who is in a recommended or mandatory work-from-home status should assume that will continue until at least June 1, 2020.” He added, “Not everyone at a site will go back all at once – expect the return to be staggered and incremental.”
+
+Google Cloud operates a large engineering center in Seattle, in a new campus that it opened last year. It’s the first of three tech giants with major cloud platforms that will report earnings this week. Microsoft reports earnings on Wednesday, and Amazon on Thursday.
+
+The revenue increase in Google Cloud was driven by “significant growth” in Google Cloud Platform (GCP) and “ongoing strong growth” in G Suite, Porat said. She added that the growth rate in GCP was “meaningfully higher than that of Cloud overall,” led by infrastructure offerings and Google’s data and analytics platform, adding that Google Cloud saw new traction in areas including health care, media and communications, and supply chain optimization.
+
+Alphabet’s overall revenue rose 13% to more than $41 billion for the quarter, ahead of Wall Street estimates of $40.3 billion. Profits were $6.84 billion, up 27%, or $9.87/share, short of estimates $10.36/share.
+
+“Performance was strong during the first two months of the quarter, but then in March we experienced a significant slowdown in ad revenues,” Porat said in Alphabet’s earnings news release. We are sharpening our focus on executing more efficiently, while continuing to invest in our long-term opportunities.”
+
+Alphabet shares rose more than 4% in after-hours trading.
