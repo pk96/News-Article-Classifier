@@ -1,0 +1,23 @@
+Scientists believe the world will see it’s first working thermonuclear fusion reactor by the year 2025. That’s a tall order in short form, especially when you consider that fusion has been “almost here” for nearly a century.
+
+Fusion reactors – not to be confused with common fission reactors – are the holiest of Grails when it comes to physics achievements. According to most experts, a successful fusion reactor would function as a near-unlimited source of energy.
+
+In other words, if there’s a working demonstration of an actual fusion reactor by 2025, we could see an end to the global energy crisis within a few decades.
+
+TAE, one of the companies working on the fusion problem, says the big difference-maker now is machine learning. According to a report from Forbes, Google’s been helping TAE come up with modern solutions to decades-old math problems by using novel AI systems to facilitate the discovery of new fusion techniques.
+
+The CEO of TAE says his company will commercialize fusion technology within the decade. He’s joined by executives from several other companies and academic institutions who believe we’re finally within a decade or so of debuting the elusive energy technology – MIT researchers say they’ll have there’s done before 2028.
+
+But, this level of optimism isn’t reflected in the general scientific community. The promise of nuclear fusion has eluded the world’s top researchers for so long now that, barring a major peer-reviewed ‘eureka’ moment, most self-respecting physicists are taking these new developments with an industrial-sized grain of salt.
+
+The problem’s pretty simple: smash a couple of atoms together and soak up the resultant energy. But fusion is really, really difficult. It occurs naturally in stars such as our sun, but recreating the sun’s conditions on Earth is simply not possible with our current technology.
+
+First off, the sun is much more massive than the Earth, and that mass comes with the fusion-friendly benefit of increased gravity.
+
+All that extra gravity smashes the sun’s atoms into one another. The combination of pressure and heat (the sun’s core rocks out at a spicy 27 million degrees Fahrenheit) force hydrogen atoms to fuse together, thus becoming helium atoms. This results in the expulsion of energy.
+
+What makes this type of energy so wonderful is the fact that fusion produces so much more energy than current methods. At least, it should. Unfortunately all the current terrestrial attempts at fusion have come up short because, though many have been successful at fusing atoms, they always take more energy to produce the temperatures required to fuse atoms on Earth than said atoms produce in the process. This is because, lacking the requisite gravity, our only choice is to turn up the heat. Instead of 27 million degrees, Earth-bound fusion occurs at several hundred million degrees.
+
+But now we’ve harnessed the power of the machines, something previous researchers never had at their disposal. So just how, exactly, is AI supposed to be the difference-maker? Mostly in the area of data analysis. Physics experiments aren’t exactly simple, and sifting through the figurative tons of data produced by a fusion experiment is an inhumane task best left to the machines.
+
+By giving physicists “super human” analysis abilities, they can turn around experiments faster. This enables quicker iterations and more meaningful results. Whether or not this is the game changer that’ll finally put us over the fusion hump remains to be seen, but there’s plenty of reason for optimism.

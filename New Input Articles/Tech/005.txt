@@ -1,0 +1,23 @@
+A new report from CNBC offers a deep dive into how the contact tracing partnership between Google and Apple came to be. Perhaps most interestingly, the report details the speed at which Apple developed the technology.
+
+According to CNBC, Edouard Bugnion, the founding CTO of VMWare, first reached out to Apple’s developer relations team about contact tracing and the need for a solution that balanced privacy and usability. These concerns quickly reached Apple’s Myoung Cha:
+
+Within a day or two, these issues came to the attention of Apple’s Myoung Cha, who’s responsible for the business side of the company’s growing health team. Cha, a senior strategist for the company’s health care division, reports to the company’s COO, Jeff Williams.
+
+At this point, Cha was already working with a small team on how smartphones could be used for contact tracing — a project codenamed “Bubble” internally. Other members of the early team included Apple’s location services boss Ron Huang, as well as Dr. Guy “Bud Tribble,” Apple’s privacy VP.
+
+The team then looped in a “group of engineers who were willing to volunteer their time to the project,” including cryptography experts, Yannick Sierra and Frederic Jacobs. The team favored a decentralized approach early on:
+
+The Apple employees also favored decentralized approaches. The idea was that a phone belonging to a user who had tested positive would send anonymous alerts directly to other phones that it had been nearby, instead of uploading all this information to a government or other central authority. This would prevent governments from building a database with detailed location or proximity information.
+
+The Apple team also believed any system would need to be “opt-in,” where the individual gives consent to share information with other phones.
+
+Meanwhile, Google employees were internally thinking about a similar project. An early team including Yul Kwon and senior product manager Ronald Ho worked on the project, codenamed “Apollo” internally. The team then presented the project to Google’s Android VP, Dave Burke, who eventually communicated with Apple’s Cha about the technology.
+
+The collaboration culminated with a virtual meeting between Apple CEO Tim Cook and Alphabet CEO Sundar Pichai:
+
+But in this case, they knew they had to come together. A system for exposure notification needed to be interoperable, otherwise there would be huge gaps in coverage.
+
+The two companies couldn’t formally announce plans to work together until they got a green-light from their CEOs. So Apple CEO Tim Cook and Alphabet CEO Sundar Pichai hashed it out on a virtual meeting several days ahead of the official announcement on April 10th.
+
+CNBC also points out that Google and Apple are now targeting a May 1 release date for the first version of this exposure notification API. 

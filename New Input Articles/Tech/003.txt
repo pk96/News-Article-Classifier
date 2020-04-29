@@ -1,0 +1,41 @@
+As quantum computers continue to grow in size and complexity, engineers are hitting a major obstacle. All of that added machinery means higher temperatures - and if anything can ruin a perfectly good quantum bit, it's heat.
+
+There are a few possible solutions, but any fix needs to be small and compatible with existing silicon technology. Two recently published papers confirm a new device developed by engineers at Australia's University of New South Wales (UNSW) could be the way to go.
+
+Early last year, the researchers tentatively announced tiny semiconducting materials called quantum dots could be isolated and still used to carry out the kinds of quantum operations needed for the next generation of computing, all at a relatively toasty 1.5 degrees Kelvin.
+
+"This is still very cold, but is a temperature that can be achieved using just a few thousand dollars' worth of refrigeration, rather than the millions of dollars needed to cool chips to 0.1 Kelvin," says senior researcher Andrew Dzurak from UNSW.
+
+That research has not only now been given the thumbs-up in a peer review, it's also been validated by a second, completely different study conducted by a team from Delft University of Technology in the Netherlands.
+
+Having confirmation that this proof of concept device works as theorised should give us confidence that this technology, if not something like it, will be one way we'll scale up quantum computers to increasingly useful sizes.
+
+Where conventional computing uses a binary system of 'bits' to perform logical operations, quantum computing uses the probabilistic nature of quantum states to manage particular calculations.
+
+Those states are most easily represented in the features of tiny (preferably subatomic sized) particles. While in an unmeasured form, these particles can be described mathematically as possessing a blend of characteristics in what's known as a superposition.
+
+The mathematics of superposition particles – called qubits when used this way – can make short work of algorithms that would take conventional computers far too long to solve, at least in theory.
+
+But to really get the most out of them, qubits should work collaboratively with other qubits, entangling their mathematics in ever more complex ways. Ideally, dozens of qubits should work together if we're to make a quantum computer that's more than just an expensive toy.
+
+Some tech companies claim to be at that point already. For them, the next step is to connect hundreds, if not millions together. It's a lofty goal that presents engineers with a growing problem.
+
+"Every qubit pair added to the system increases the total heat generated," says Dzurak.
+
+Heat risks making a mess of the whole superposition thing, which is why current designs rely so much on cooling technology that freezes particles to a virtual stand-still.
+
+Just adding more heat sinks runs into space and efficiency problems. So Dzurak and his team looked for ways to house a qubit that could handle rising temperatures.
+
+The trick, they found, was to isolate electrons from their reservoir on a pair of nanometre-sized islands called quantum dots, made from silicon metal-oxide.
+
+The electron states can then be set and measured using a process called tunnelling, where the quantum uncertainty of each electron's position allows them to teleport between dots.
+
+This tunnelling within an isolated qubit nest gives the delicate states of the electrons a level of protection against the slightly higher temperatures, while still allowing the system to link in with conventional electronic computers.
+
+"Our new results open a path from experimental devices to affordable quantum computers for real world business and government applications," says Dzurak.
+
+As a proof of concept, it's exciting stuff. But plenty of questions need to be answered before we'll see it marry with existing quantum computing technology.
+
+Cooking qubits at temperatures 15 times warmer than usual seems to work just fine so far, but we're yet to see how this translates to entangled groups, and whether methods for correcting errors still work for a 'hot' qubit.
+
+No doubt researchers will be turning their attention to these concerns in future experiments, moving us ever closer to quantum computers capable of cracking some of the hardest problems the Universe can throw at us.
