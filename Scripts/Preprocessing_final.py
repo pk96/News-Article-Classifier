@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ## IMPORTING TABULAR DATASET
-# Change path variable to read     
+# Set path variable to read Articles_corpus.csv file   
 path = "D:\\Course Materials\Machine Learning\\Project\\Articles_corpus.csv"
 df = pd.read_csv(path, sep = ';')
 
